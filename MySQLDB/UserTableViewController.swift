@@ -285,6 +285,11 @@ class UserTableViewController: UITableViewController {
  
  return cell
  
+ https://www.dropbox.com/s/cx6s06zvqlp7r3x/SwiftTableView.rtf?dl=0
+ https://stackoverflow.com/questions/28646290/swift-php-how-to-display-mysql-data-json-in-uitableview-using-alamofire
+ https://stackoverflow.com/questions/36649650/passing-label-data-from-a-tableview-to-another-view-controller?rq=1
+ https://stackoverflow.com/questions/28260055/connect-to-an-online-database-mysql-from-swift-using-php-xcode/28267532
+ 
  */
 
  
